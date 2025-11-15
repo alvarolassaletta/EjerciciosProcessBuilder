@@ -1,4 +1,4 @@
-package Ejercicio2;
+package Ejercicio02;
 /*Ejercicio 2 – Guardar la fecha del sistema
 Crea un programa que ejecute el comando que muestra la fecha (date) y guarde la salida
 en un fichero llamado fecha.txt.*/

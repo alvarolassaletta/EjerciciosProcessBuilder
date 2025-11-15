@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Ejercicio01;
 /*
 * Mostrar directorio actual
 Crea un programa que ejecute el comando del sistema operativo que muestra el contenido

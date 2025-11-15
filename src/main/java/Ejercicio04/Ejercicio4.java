@@ -1,4 +1,4 @@
-package Ejercicio4;
+package Ejercicio04;
 
 /*Ejercicio 4 – Preguntar un comando y guardar su salida
 Haz que el programa pida al usuario un comando del sistema, lo ejecute y guarde tanto la

@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Ejercicio03;
 /*Ejercicio 3 – Redirigir errores
 Crea un programa que intente ejecutar un comando inexistente y redirija los mensajes de
 error a un archivo llamado errores.txt.*/

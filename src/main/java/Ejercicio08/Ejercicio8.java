@@ -1,4 +1,4 @@
-package Ejercicio8;
+package Ejercicio08;
 
 /*Ejercicio 8 – Abrir un programa del sistema
 Escribe un programa que abra una aplicación del sistema (por ejemplo, Bloc de notas, Paint

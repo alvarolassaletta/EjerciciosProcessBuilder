@@ -1,11 +1,10 @@
-package Ejercicio6;
+package Ejercicio06;
 
     /*Ejercicio 6 – Comprobar conexión
     Haz un programa que ejecute el comando ping a una dirección (por ejemplo, ping
     google.com) y muestre si la conexión fue exitosa o no en base al código de salida del
     proceso.*/
 
-import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 

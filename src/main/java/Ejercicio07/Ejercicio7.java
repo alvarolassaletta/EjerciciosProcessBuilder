@@ -1,4 +1,4 @@
-package Ejercicio7;
+package Ejercicio07;
 /*
 * Llamar a un archivo externo
 Crea un programa que ejecute un archivo externo (por ejemplo, un .bat o .sh) y muestre el

@@ -1,4 +1,4 @@
-package Ejercicio9;
+package Ejercicio09;
 
 /*Ejercicio 9 – Ejecutar varios procesos
 Haz un programa que lance dos programas a la vez (por ejemplo, Notepad y Calc) y espere
